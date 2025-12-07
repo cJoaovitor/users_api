@@ -1,27 +1,29 @@
-[
-  {
-    "id": "1",
-    "name": "Marcos",
-    "sexo": "masculino"
-  },
-  {
-    "id": "2",
-    "name": "Julia",
-    "sexo": "feminino"
-  },
-  {
-    "id": "3",
-    "name": "Rafael",
-    "sexo": "masculino"
-  },
-  {
-    "id": "4",
-    "name": "Bianca",
-    "sexo": "feminino"
-  },
-  {
-    "id": "5",
-    "name": "Thiago",
-    "sexo": "masculino"
-  }
-]
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Marcos",
+      "sexo": "masculino"
+    },
+    {
+      "id": "2",
+      "name": "Julia",
+      "sexo": "feminino"
+    },
+    {
+      "id": "3",
+      "name": "Rafael",
+      "sexo": "masculino"
+    },
+    {
+      "id": "4",
+      "name": "Bianca",
+      "sexo": "feminino"
+    },
+    {
+      "id": "5",
+      "name": "Thiago",
+      "sexo": "masculino"
+    }
+  ]
+}
